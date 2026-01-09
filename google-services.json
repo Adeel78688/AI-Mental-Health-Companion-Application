@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "400155684531",
+    "project_id": "mental-health-companion-641b2",
+    "storage_bucket": "mental-health-companion-641b2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400155684531:android:d415e36e2071b0b2240ac6",
+        "android_client_info": {
+          "package_name": "com.example.mentalhealthcompanion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "400155684531-2chq3rha8f1230s0qvtppkaidb5c9lqq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mentalhealthcompanion",
+            "certificate_hash": "2f717cb72adc9d225858b4c079b051e9868918e9"
+          }
+        },
+        {
+          "client_id": "400155684531-j4nhht4cfihajshe2ljvd10bui8deqgf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm1vS6EmfMYskKXJqL-yn_9olvjurpJcE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "400155684531-j4nhht4cfihajshe2ljvd10bui8deqgf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
